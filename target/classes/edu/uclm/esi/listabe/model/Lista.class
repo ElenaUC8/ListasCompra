@@ -1,0 +1,17 @@
+Êþº¾   4 U   edu/uclm/esi/listabe/model/Lista  java/lang/Object id Ljava/lang/String; RuntimeVisibleAnnotations Ljakarta/persistence/Id; Ljakarta/persistence/Column; length   $ nombre   P 	productos Ljava/util/List; 	Signature 7Ljava/util/List<Ledu/uclm/esi/listabe/model/Producto;>; Ljakarta/persistence/OneToMany; mappedBy lista emailsUsuarios $Ljava/util/List<Ljava/lang/String;>; 'Ljakarta/persistence/ElementCollection; <init> ()V Code
+    
+     java/util/UUID ! " 
+randomUUID ()Ljava/util/UUID;
+  $ % & toString ()Ljava/lang/String;	  (   * java/util/ArrayList
+ ) 	  -  	  /   LineNumberTable LocalVariableTable this "Ledu/uclm/esi/listabe/model/Lista; getId setId (Ljava/lang/String;)V MethodParameters getEmailsUsuarios ()Ljava/util/List; &()Ljava/util/List<Ljava/lang/String;>; 	getNombre	  =   	setNombre add ((Ledu/uclm/esi/listabe/model/Producto;)V B D C java/util/List ? E (Ljava/lang/Object;)Z producto %Ledu/uclm/esi/listabe/model/Producto; addEmailUsuario email getProductos 9()Ljava/util/List<Ledu/uclm/esi/listabe/model/Producto;>; setProductos (Ljava/util/List;)V :(Ljava/util/List<Ledu/uclm/esi/listabe/model/Producto;>;)V LocalVariableTypeTable setEmailsUsuarios '(Ljava/util/List<Ljava/lang/String;>;)V 
+SourceFile 
+Lista.java Ljakarta/persistence/Entity; !                  	  
+I           	  
+I 
+                 s                           _     %*· *¸ ¶ #µ '*» )Y· +µ ,*» )Y· +µ .±    0              ! $ " 1       % 2 3    4 &     /     *´ '°    0       % 1        2 3    5 6     >     *+µ '±    0   
+    )  * 1        2 3         7        8 9      :    /     *´ .°    0       - 1        2 3    ; &     /     *´ <°    0       1 1        2 3    > 6     >     *+µ <±    0   
+    5  6 1        2 3         7        ? @     D     *´ ,+¹ A W±    0   
+    9  ; 1        2 3      F G  7    F    H 6     D     *´ .+¹ A W±    0   
+    >  @ 1        2 3      I   7    I    J 9      K    /     *´ ,°    0       C 1        2 3    L M      N    P     *+µ ,±    0   
+    G  H 1        2 3         O           7        P M      Q    P     *+µ .±    0   
+    K  L 1        2 3         O           7        R    S      T  
