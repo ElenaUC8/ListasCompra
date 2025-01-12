@@ -1,0 +1,13 @@
+edu\uclm\esi\listabe\ws\WSChat$1.class
+edu\uclm\esi\listabe\dao\ProductoDao.class
+edu\uclm\esi\listabe\ws\WSChat.class
+edu\uclm\esi\listabe\AppListaCompraBE.class
+edu\uclm\esi\listabe\ws\WSListas$1.class
+edu\uclm\esi\listabe\model\Lista.class
+edu\uclm\esi\listabe\model\Producto.class
+edu\uclm\esi\listabe\ws\WSListas.class
+edu\uclm\esi\listabe\http\ListaController.class
+edu\uclm\esi\listabe\services\ProxyBEU.class
+edu\uclm\esi\listabe\ws\WSConfigurer.class
+edu\uclm\esi\listabe\services\ListaService.class
+edu\uclm\esi\listabe\dao\ListaDao.class
