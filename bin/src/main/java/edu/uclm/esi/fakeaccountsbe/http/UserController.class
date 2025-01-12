@@ -1,0 +1,217 @@
+Êþº¾   = _  =src/main/java/edu/uclm/esi/fakeaccountsbe/http/UserController  java/lang/Object userService 
+LUserService; RuntimeInvisibleAnnotations LAutowired; <init> ()V Code 
+ java/lang/Error Unresolved compilation problems: 
+	The type java.lang.String cannot be resolved. It is indirectly referenced from required .class files
+	The declared package "edu.uclm.esi.fakeaccountsbe.http" does not match the expected package "src.main.java.edu.uclm.esi.fakeaccountsbe.http"
+	The import java.util cannot be resolved
+	The import java.util cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import edu cannot be resolved
+	The import edu cannot be resolved
+	The import edu cannot be resolved
+	RestController cannot be resolved to a type
+	RequestMapping cannot be resolved to a type
+	CrossOrigin cannot be resolved to a type
+	Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+	Autowired cannot be resolved to a type
+	UserService cannot be resolved to a type
+	PostMapping cannot be resolved to a type
+	HttpServletRequest cannot be resolved to a type
+	RequestBody cannot be resolved to a type
+	CredencialesRegistro cannot be resolved to a type
+	User cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+	GetMapping cannot be resolved to a type
+	HttpServletRequest cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	CredencialesRegistro cannot be resolved to a type
+	CredencialesRegistro cannot be resolved to a type
+	User cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+	GetMapping cannot be resolved to a type
+	HttpServletRequest cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	Integer cannot be resolved to a type
+	PutMapping cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestBody cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+	UUID cannot be resolved
+	GetMapping cannot be resolved to a type
+	User cannot be resolved to a type
+	HttpServletResponse cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+	UUID cannot be resolved
+	GetMapping cannot be resolved to a type
+	User cannot be resolved to a type
+	HttpServletResponse cannot be resolved to a type
+	PathVariable cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	GetMapping cannot be resolved to a type
+	Collection cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+	DeleteMapping cannot be resolved to a type
+	HttpServletRequest cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+	String cannot be resolved to a type
+	ResponseStatusException cannot be resolved to a type
+	HttpStatus cannot be resolved to a variable
+	UserService cannot be resolved to a type
+	DeleteMapping cannot be resolved to a type
+	HttpServletRequest cannot be resolved to a type
+	String cannot be resolved to a type
+	Integer cannot be resolved to a type
+	Integer cannot be resolved
+	HttpStatus cannot be resolved to a variable
+	Math cannot be resolved
+
+   	  (Ljava/lang/String;)V LineNumberTable LocalVariableTable this ?Lsrc/main/java/edu/uclm/esi/fakeaccountsbe/http/UserController; 
+registrar1 -(LHttpServletRequest;LCredencialesRegistro;)V 
+LPostMapping; value $RuntimeInvisibleParameterAnnotations 
+LRequestBody; JUnresolved compilation problems: 
+	PostMapping cannot be resolved to a type
+	HttpServletRequest cannot be resolved to a type
+	RequestBody cannot be resolved to a type
+	CredencialesRegistro cannot be resolved to a type
+	User cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+ 
+registrar2 M(LHttpServletRequest;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V LGetMapping; LRequestParam; $BUnresolved compilation problems: 
+	GetMapping cannot be resolved to a type
+	HttpServletRequest cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	CredencialesRegistro cannot be resolved to a type
+	CredencialesRegistro cannot be resolved to a type
+	User cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+ registrarMuchos 2(LHttpServletRequest;Ljava/lang/String;LInteger;)V (Unresolved compilation problems: 
+	GetMapping cannot be resolved to a type
+	HttpServletRequest cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	Integer cannot be resolved to a type
+ login1 (LUser;)Ljava/lang/String; LPutMapping; - Unresolved compilation problems: 
+	PutMapping cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestBody cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+	UUID cannot be resolved
+ login2 A(LHttpServletResponse;Ljava/lang/String;Ljava/lang/String;)LUser; 1¦Unresolved compilation problems: 
+	GetMapping cannot be resolved to a type
+	User cannot be resolved to a type
+	HttpServletResponse cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+	UUID cannot be resolved
+ login3 LPathVariable; 5@Unresolved compilation problems: 
+	GetMapping cannot be resolved to a type
+	User cannot be resolved to a type
+	HttpServletResponse cannot be resolved to a type
+	PathVariable cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+ getAllUsers ()LCollection; 	Signature ()LCollection<LUser;>; ; ÁUnresolved compilation problems: 
+	GetMapping cannot be resolved to a type
+	Collection cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+ delete ;(LHttpServletRequest;Ljava/lang/String;Ljava/lang/String;)V LDeleteMapping; @Unresolved compilation problems: 
+	DeleteMapping cannot be resolved to a type
+	HttpServletRequest cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	RequestParam cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	UserService cannot be resolved to a type
+	String cannot be resolved to a type
+	ResponseStatusException cannot be resolved to a type
+	HttpStatus cannot be resolved to a variable
+	UserService cannot be resolved to a type
+ clearAll (LHttpServletRequest;)V DUnresolved compilation problems: 
+	DeleteMapping cannot be resolved to a type
+	HttpServletRequest cannot be resolved to a type
+	String cannot be resolved to a type
+	Integer cannot be resolved to a type
+	Integer cannot be resolved
+	HttpStatus cannot be resolved to a variable
+ isPrime (I)Z H :Unresolved compilation problem: 
+	Math cannot be resolved
+ 
+SourceFile UserController.java LRestController; LRequestMapping; 
+LCrossOrigin; O 
+Collection Q CredencialesRegistro S HttpServletRequest U HttpServletResponse W Integer Y User [ UserService ] java/lang/String MissingTypes !                    	 
+     4     
+» Y· ¿                   
+            	          4     
+» Y· ¿           "        
+                 "    "    "      4     
+» Y#· ¿           ,        
+      % &         "    "      4     
+» Y'· ¿           :        
+      ) *             4     
+» Y,· ¿           @        
+      . /         "    "      4     
+» Y0· ¿           G        
+      2 /         3    "      4     
+» Y4· ¿           O        
+      6 7  8    9    4     
+» Y:· ¿           T        
+      < =         "    "      4     
+» Y?· ¿           Y        
+      A B     4     
+» YC· ¿           d        
+      E F     4     
+» YG· ¿           q        
+      I    J      K   ^     N P R T V X Z \
