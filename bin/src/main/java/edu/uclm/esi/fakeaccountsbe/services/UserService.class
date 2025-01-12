@@ -1,0 +1,191 @@
+Êþº¾   = B  >src/main/java/edu/uclm/esi/fakeaccountsbe/services/UserService  java/lang/Object users LMap; 	Signature LMap<Ljava/lang/String;LUser;>; 	usersByIp 'LMap<Ljava/lang/String;LList<LUser;>;>; <init> ()V Code  java/lang/Error 
+iUnresolved compilation problems: 
+	The declared package "edu.uclm.esi.fakeaccountsbe.services" does not match the expected package "src.main.java.edu.uclm.esi.fakeaccountsbe.services"
+	The import java.util cannot be resolved
+	The import java.util cannot be resolved
+	The import java.util cannot be resolved
+	The import java.util cannot be resolved
+	The import java.util cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	The import edu cannot be resolved
+	Service cannot be resolved to a type
+	Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	ConcurrentHashMap cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	ConcurrentHashMap cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	ResponseStatusException cannot be resolved to a type
+	HttpStatus cannot be resolved to a variable
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	ArrayList cannot be resolved to a type
+	ResponseStatusException cannot be resolved to a type
+	HttpStatus cannot be resolved to a variable
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	System cannot be resolved
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	Collection cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	User cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	ResponseStatusException cannot be resolved to a type
+	HttpStatus cannot be resolved to a variable
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	System cannot be resolved
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this @Lsrc/main/java/edu/uclm/esi/fakeaccountsbe/services/UserService; 	registrar (Ljava/lang/String;LUser;)V §Unresolved compilation problems: 
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	ResponseStatusException cannot be resolved to a type
+	HttpStatus cannot be resolved to a variable
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	ArrayList cannot be resolved to a type
+	ResponseStatusException cannot be resolved to a type
+	HttpStatus cannot be resolved to a variable
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	System cannot be resolved
+ login 	(LUser;)V   DUnresolved compilation problem: 
+	User cannot be resolved to a type
+ clearAll #Unresolved compilation problems: 
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+ getAllUsers ()LCollection; ()LCollection<LUser;>; ( ØUnresolved compilation problems: 
+	Collection cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+ find ,(Ljava/lang/String;Ljava/lang/String;)LUser; ,Unresolved compilation problems: 
+	User cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	ResponseStatusException cannot be resolved to a type
+	HttpStatus cannot be resolved to a variable
+ delete /4Unresolved compilation problems: 
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	List cannot be resolved to a type
+	User cannot be resolved to a type
+ clearOld 2 ÊUnresolved compilation problems: 
+	System cannot be resolved
+	User cannot be resolved to a type
+	Map cannot be resolved to a type
+	String cannot be resolved to a type
+	User cannot be resolved to a type
+ 
+SourceFile UserService.java RuntimeInvisibleAnnotations 	LService; 8 
+Collection : List < Map > User @ java/lang/String MissingTypes !                	       
+      
+   4     
+» Y· ¿                   
+         
+   4     
+» Y· ¿                   
+         
+   4     
+» Y· ¿           (        
+      !   
+   4     
+» Y"· ¿           -        
+      $ %      & 
+   4     
+» Y'· ¿           1        
+      ) *  
+   4     
+» Y+· ¿           5        
+      -   
+   4     
+» Y.· ¿           <        
+     ! 0   
+   4     
+» Y1· ¿           E        
+      3    4 5     6   A     7 9 ; = ?
