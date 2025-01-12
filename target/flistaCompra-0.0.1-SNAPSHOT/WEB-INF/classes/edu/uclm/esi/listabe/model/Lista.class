@@ -1,0 +1,16 @@
+Êþº¾   4 U
+      java/lang/Object <init> ()V
+  	 
+   java/util/UUID 
+randomUUID ()Ljava/util/UUID;
+     toString ()Ljava/lang/String;	       edu/uclm/esi/listabe/model/Lista id Ljava/lang/String;  java/util/ArrayList
+  	     	productos Ljava/util/List;	      emailsUsuarios	  " #  nombre % & ' ( ) java/util/List add (Ljava/lang/Object;)Z RuntimeVisibleAnnotations Ljakarta/persistence/Id; Ljakarta/persistence/Column; length   $   P 	Signature 7Ljava/util/List<Ledu/uclm/esi/listabe/model/Producto;>; Ljakarta/persistence/OneToMany; mappedBy lista $Ljava/util/List<Ljava/lang/String;>; 'Ljakarta/persistence/ElementCollection; Code LineNumberTable LocalVariableTable this "Ledu/uclm/esi/listabe/model/Lista; getId setId (Ljava/lang/String;)V MethodParameters getEmailsUsuarios ()Ljava/util/List; &()Ljava/util/List<Ljava/lang/String;>; 	getNombre 	setNombre ((Ledu/uclm/esi/listabe/model/Producto;)V producto %Ledu/uclm/esi/listabe/model/Producto; addEmailUsuario email getProductos 9()Ljava/util/List<Ledu/uclm/esi/listabe/model/Producto;>; setProductos (Ljava/util/List;)V LocalVariableTypeTable :(Ljava/util/List<Ledu/uclm/esi/listabe/model/Producto;>;)V setEmailsUsuarios '(Ljava/util/List<Ljava/lang/String;>;)V 
+SourceFile 
+Lista.java Ljakarta/persistence/Entity; !          *     +   ,  -I .  #   *     ,  -I /     0    1 *     2  3s 4      0    5 *     6        7   _     %*· *¸ ¶ 
+µ *» Y· µ *» Y· µ ±    8              ! $ " 9       % : ;    <   7   /     *´ °    8       % 9        : ;    = >  7   >     *+µ ±    8   
+    )  * 9        : ;         ?        @ A  7   /     *´ °    8       - 9        : ;   0    B  C   7   /     *´ !°    8       1 9        : ;    D >  7   >     *+µ !±    8   
+    5  6 9        : ;      #   ?    #    ( E  7   D     *´ +¹ $ W±    8   
+    9  ; 9        : ;      F G  ?    F    H >  7   D     *´ +¹ $ W±    8   
+    >  @ 9        : ;      I   ?    I    J A  7   /     *´ °    8       C 9        : ;   0    K  L M  7   P     *+µ ±    8   
+    G  H 9        : ;         N         1  ?       0    O  P M  7   P     *+µ ±    8   
+    K  L 9        : ;          N          5  ?        0    Q  R    S *     T  
